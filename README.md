@@ -7,10 +7,10 @@
 - ⚡️ Fun Fact: I love playing football and FIFA for fun.
 
 ### Connect with me:
-<img align="left" alt="gurdeepmundi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [website]<br/><br/>
-<img align="left" alt="Gurdeep Mundi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin] 
+<img align="left" alt="gurdeepmundi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [Website]<br/><br/>
+<img align="left" alt="Gurdeep Mundi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn] 
 <br/> <br/>
-<img align="left" alt="Punjabi Programmers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[youtube] 
+<img align="left" alt="Punjabi Programmers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[YouTube] 
 <br/><br/>
 <!--
 **GurdeepMundi/GurdeepMundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://www.gurdeepmundi.com
-[linkedin]: https://www.linkedin.com/in/gurdeep-mundi-5813a9115/
-[youtube]: https://www.youtube.com/channel/UCDZMpiamyx73ItUsdNFylFA
+[Website]: https://www.gurdeepmundi.com
+[LinkedIn]: https://www.linkedin.com/in/gurdeep-mundi-5813a9115/
+[YouTube]: https://www.youtube.com/channel/UCDZMpiamyx73ItUsdNFylFA
