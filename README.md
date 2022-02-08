@@ -1,4 +1,4 @@
-### Hi there, I'm is Gurdeep Singh - <a href = "https://www.gurdeepmundi.com"> gurdeepmundi.com </a> 👋
+### Hi there, this is Gurdeep Singh - <a href = "https://www.gurdeepmundi.com"> gurdeepmundi.com </a> 👋
 
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working on an image classification project using Convolutional Neural Networks.
