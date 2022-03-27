@@ -3,7 +3,7 @@
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working on an image classification project using Convolutional Neural Networks.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
-- 🥅 2020 Goals: Contribute to more and more open source projects
+- 🥅 2021 Goals: Contribute to more and more open source projects
 - ⚡️ Fun Fact: I love playing football and FIFA for fun.
 
 ### Connect with me:
