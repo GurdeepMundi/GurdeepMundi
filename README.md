@@ -1,7 +1,7 @@
 ### Hi there, this is Gurdeep Singh - <a href = "https://www.gurdeepmundi.com"> gurdeepmundi.com </a> 👋
 
 ## I'm a competitive programmer, software developer and web developer.
-- 🌠  I'm currently working on an image classification project using Convolutional Neural Networks.
+- 🌠  I'm currently working as an IT Business Analyst Intern.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
 - 🥅 2022 Goals: Learning data analytics skills.
 - ⚡️ Fun Fact: I love playing football and running on weekends.
