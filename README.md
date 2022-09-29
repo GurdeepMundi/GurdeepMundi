@@ -3,8 +3,8 @@
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working on an image classification project using Convolutional Neural Networks.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
-- 🥅 2021 Goals: Contribute to more and more open source projects
-- ⚡️ Fun Fact: I love playing football and FIFA for fun.
+- 🥅 2022 Goals: Learning data analytics skills.
+- ⚡️ Fun Fact: I love playing football and running on weekends.
 
 ### Connect with me:
 <img align="left" alt="gurdeepmundi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [Website]<br/><br/>
