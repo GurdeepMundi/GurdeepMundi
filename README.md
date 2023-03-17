@@ -3,7 +3,7 @@
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working as an IT Business Analyst Intern.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
-- 🥅 2022 Goals: Learning data analytics skills.
+- 🥅 2023 Goals: Working on an impactful project.
 - ⚡️ Fun Fact: I love playing football and running on weekends.
 
 ### Connect with me:
