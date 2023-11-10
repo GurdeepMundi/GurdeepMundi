@@ -1,7 +1,7 @@
 ### Hi there, this is Gurdeep Singh - <a href = "https://www.gurdeepmundi.com"> gurdeepmundi.com </a> 👋
 
 ## I'm a competitive programmer, software developer and web developer.
-- 🌠  I'm currently working as an IT Business Analyst Intern.
+- 🌠  I'm currently working as a Business Systems Analyst.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
 - 🥅 2023 Goals: Working on an impactful project.
 - ⚡️ Fun Fact: I love playing football and running on weekends.
