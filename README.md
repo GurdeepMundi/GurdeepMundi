@@ -2,7 +2,6 @@
 
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working as a Business Systems Analyst.
-- 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
 - 🥅 2025 Goals: PMP certification, building a game and helping some people save time and generate value.
 - ⚡️ Fun Fact: I love playing football and running on weekends.
 
@@ -31,4 +30,3 @@ Here are some ideas to get you started:
 
 [Website]: https://www.gurdeepmundi.com
 [LinkedIn]: https://www.linkedin.com/in/gurdeep-mundi-5813a9115/
-[YouTube]: https://www.youtube.com/channel/UCDZMpiamyx73ItUsdNFylFA
