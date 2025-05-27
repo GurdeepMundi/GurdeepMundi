@@ -3,7 +3,7 @@
 ## I'm a competitive programmer, software developer and web developer.
 - 🌠  I'm currently working as a Business Systems Analyst.
 - 📝 I'm sharing my programming knowledge and tricks at youtube channel (link below)
-- 🥅 2023 Goals: Working on an impactful project.
+- 🥅 2025 Goals: PMP certification, building a game and helping some people save time and generate value.
 - ⚡️ Fun Fact: I love playing football and running on weekends.
 
 ### Connect with me:
