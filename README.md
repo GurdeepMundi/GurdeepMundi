@@ -1,12 +1,11 @@
 ### Hi there, this is Gurdeep Singh - <a href = "https://www.gurdeepmundi.com"> gurdeepmundi.com </a> 👋
 
-## I'm a competitive programmer, software developer and web developer.
+## I'm a software developer, and an AI anthusiast.
 - 🌠  I'm currently working as a Business Systems Analyst.
-- 🥅 2025 Goals: PMP certification, building a game and helping some people save time and generate value.
-- ⚡️ Fun Fact: I love playing football and running on weekends.
+- 🥅 2025 Goals: PMP certification, building an app for helping some people save time and generate value.
+- ⚡️ Fun Fact: I love playing soccer and running on weekends.
 
 ### Connect with me:
-<img align="left" alt="gurdeepmundi.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [Website]<br/><br/>
 <img align="left" alt="Gurdeep Mundi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[LinkedIn] 
 <br/> <br/>
 <img align="left" alt="Punjabi Programmers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[YouTube] 
@@ -28,5 +27,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[Website]: https://www.gurdeepmundi.com
 [LinkedIn]: https://www.linkedin.com/in/gurdeep-mundi-5813a9115/
